@@ -9,7 +9,7 @@ This repository is for my EDA projects using Python. I will add datasets, notebo
 I used the first year of the Online Retail II dataset to practise data cleaning and EDA with Pandas, Matplotlib and Seaborn.
 
 - Notebook: [Online_Retail_EDA.ipynb](Online-Retail-2009-2010/Online_Retail_EDA.ipynb)
-- Dataset: [Year_2009-2010.csv](Online-Retail-2009-2010/data/Year_2009-2010.csv)
+- Dataset: [Year_2009-2010.csv.zip](Online-Retail-2009-2010/data/Year_2009-2010.csv.zip)
 - Project notes: [README](Online-Retail-2009-2010/README.md)
 
 ### What I found
