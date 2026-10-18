@@ -29,9 +29,7 @@ This is my first EDA project using the Online Retail II dataset. I worked throug
 
 ## Run the notebook
 
-Keep the `Online_Retail_EDA.ipynb` notebook and the `data` folder together. The notebook loads the data from `data/Year_2009-2010.csv` using a relative path.
-
-Before running the notebook, add `Year_2009-2010.csv` to the `data` folder. The CSV is from the UCI dataset linked below.
+Keep the notebook and the `data` folder together. The notebook loads `data/Year_2009-2010.csv.zip` directly, so you do not have to extract the CSV first. Run Jupyter from the `Online-Retail-2009-2010` folder so this relative path works.
 
 ## Note
 
